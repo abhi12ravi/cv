@@ -11,7 +11,6 @@ _(und ja ich lerne deutsch 🍻)_
 
 **ML Research Fellow** @ [SAP ML Digital Core](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
 
-    <br><br>
     
 ## 🗞 Published Research Papers
 
