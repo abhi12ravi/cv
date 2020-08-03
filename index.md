@@ -1,7 +1,7 @@
 # Abhiram Ravikumar
 
 _Software developer and researrcher based in Bengaluru, India_ <br>
-_(und ja ich lerne deutsch 🍻)_
+_(Come on, RCB! 🍻)_
 
 [Email](mailto:abhi12ravi@gmail.com) / [Website](https://github.com/abhi12ravi/) / [LinkedIn](https://www.linkedin.com/in/abhi12ravi/) / [GitHub](https://github.com/abhi12ravi/) / [Twitter](https://twitter.com/abhi12ravi/) / [DEV]()
 
@@ -9,7 +9,7 @@ _(und ja ich lerne deutsch 🍻)_
 
 **Software Engineer** @ [SAP Labs](https://www.sap.com/) _(Jul 2016 - NOW)_ <br>
 
-**ML Research Fellow** @ [SAP ML Digital Core](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
+**ML Research Fellow** @ [SAP ML Digital Core](https://www.sap.com/) _(Sep 2017 - Feb 2018)_ <br>
 
     
 ## 🗞 Published Research Papers
